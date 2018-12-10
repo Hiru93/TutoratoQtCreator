@@ -1,0 +1,1 @@
+Repo contenente una raccolta di appunti inerenti il tutorato di p2 (libreria Qt).
